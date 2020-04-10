@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+.game-stats {
+    width: 250px;
+  height: 50px;
+  border: 10px solid blue;
+  text-transform: uppercase;
+  font-weight: bold;
+	margin: 3rem auto 0 auto;
+	width: 30%;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
